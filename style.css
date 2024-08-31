@@ -233,6 +233,7 @@ footer {
 }
 
 /* Section Styles */
+
 #districts {
     background-color: #f9f9f9; /* Light grey background */
     padding: 2rem;
@@ -257,4 +258,9 @@ footer {
     line-height: 1.8; /* Increased line height for better readability */
     color: #555; /* Dark grey for readability */
     margin-bottom: 1.5rem;
+}
+#contact {
+    background-color: #f0f8f0; /* Light green background */
+    padding: 2rem;
+    text-align: center;
 }
